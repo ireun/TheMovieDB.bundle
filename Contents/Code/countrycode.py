@@ -33,6 +33,7 @@ COUNTRY_TO_CODE = {
   "Panama": "PA",
   "Paraguay": "PY",
   "Peru": "PE",
+  "Poland": "PL",
   "Portugal": "PT",
   "Peoples Republic of China": "CN",
   "Puerto Rico": "PR",
